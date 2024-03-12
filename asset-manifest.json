@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-exam-lv2/static/css/main.e8906f09.css",
+    "main.js": "/react-exam-lv2/static/js/main.988624f2.js",
+    "static/js/453.fc01f49c.chunk.js": "/react-exam-lv2/static/js/453.fc01f49c.chunk.js",
+    "index.html": "/react-exam-lv2/index.html",
+    "main.e8906f09.css.map": "/react-exam-lv2/static/css/main.e8906f09.css.map",
+    "main.988624f2.js.map": "/react-exam-lv2/static/js/main.988624f2.js.map",
+    "453.fc01f49c.chunk.js.map": "/react-exam-lv2/static/js/453.fc01f49c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8906f09.css",
+    "static/js/main.988624f2.js"
+  ]
+}
