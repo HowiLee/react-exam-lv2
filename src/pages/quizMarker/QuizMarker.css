@@ -1,0 +1,17 @@
+.selectArea {
+  display: flex;
+  flex-direction: row;
+}
+.questionsArea {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+.quizSelect {
+  width: 350px !important;
+}
+.btnSelected {
+  color: #fff !important;
+  background-color: #198754 !important;
+  border-color: #198754 !important;
+}
